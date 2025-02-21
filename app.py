@@ -24,6 +24,3 @@ st.sidebar.markdown("[Сергей](https://github.com/rstflght)")
 st.sidebar.markdown("[Маша](https://github.com/evcranberry)")
 st.sidebar.markdown("[Даша](https://github.com/DashonokOk)")
 
-
-  git config --global user.email "akylovadashaa@gmail.com"
-  git config --global user.name "DashonokOk"
